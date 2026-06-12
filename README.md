@@ -88,7 +88,7 @@ The stacked bar by player shows how unevenly scoring is distributed within each 
 
 ```
 nba-player-performance-analysis/
-├── dashboard_preview.png      # Dashboard overview screenshot
+├── Dashboard_Cover.png      # Dashboard cover screenshot
 ├── Bubble_Chart.png           # Points vs. assists vs. rebounds bubble chart
 ├── Assists_By_Pos.png        # Assists by player and position treemap
 ├── 3_Pt_Heat.png        # 3-point percentage heat map by team and position
