@@ -39,21 +39,31 @@ Three material findings emerged:
 
 ### The Bubble Chart: Jokić as the True Outlier
 
+![Bubble Chart](Bubble_Chart.png)
+
 The bubble chart plots Points (x-axis), Assists (y-axis), and Rebounds (bubble size). Trae Young sits furthest into the top-right quadrant — elite scoring and the highest assist total in the league. But the player who actually stands out is Nikola Jokić. His bubble dwarfs everyone else on the chart. No other player comes close to combining scoring, playmaking, and rebounding at his level. Trae Young is a specialist. Jokić does everything. Chris Paul sits high on assists with moderate scoring. Draymond Green shows high assists and minimal scoring — a reminder that "value" doesn't always show up in points.
 
 ### Guards Dominate Assists — Which Makes Jokić More Remarkable
+
+![Assists](Assts_By_Pos.png)
 
 The assists treemap breaks down total assists by player and position. Point guards — Trae Young, Chris Paul, James Harden — take up the majority of the visual space. Outside of guards, assist numbers drop sharply. Small forwards and centers represent a fraction of total playmaking. This position-to-playmaking relationship makes Jokić's assist production structurally more anomalous than the raw numbers alone suggest.
 
 ### 3-Point Shooting: Wide Variance by Team and Position
 
+![3 Pointers](3_Pt_Heat.png)
+
 The heat map breaks down 3-point percentage by team and position. Most values cluster between 0.33 and 0.40, but the outliers reveal where teams are making deployment decisions rather than just identifying poor shooters. Utah's center slot reads 0.00 — either no attempts or too few to register. Denver's small forward sits at 0.20. The LAC center leads at 0.41. The chart surfaces roster construction strategy as much as individual shooting performance.
 
 ### Younger Rosters Score More — But Age May Not Be the Driver
 
+![Age Distribution](Stacked_Bar_Age.png)
+
 The stacked bar by age group contradicts the intuition that veteran teams outperform. Teams built around younger players led in total points scored, with the top two teams showing minimal contribution from players 30 and older. The nuance: team construction philosophy, pace of play, and salary cap strategy all shape these numbers. Age may be a proxy for roster design decisions rather than an independent performance driver.
 
 ### Scoring Distribution Reveals Star-Driven vs. Depth-Driven Rosters
+
+![Player Distribution](Stacked_Bar_Players.png)
 
 The stacked bar by player shows how unevenly scoring is distributed within each franchise. Minnesota's bar is topped by Karl-Anthony Towns. Milwaukee leans heavily on Giannis Antetokounmpo. Both are star-driven structures — one player carries the offensive load. Other rosters distribute scoring across eight or nine contributors. The construction gap between star-driven and depth-driven teams is a meaningful strategic distinction worth tracking over multiple seasons.
 
