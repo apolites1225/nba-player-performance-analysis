@@ -87,11 +87,11 @@ The stacked bar by player shows how unevenly scoring is distributed within each 
 ```
 nba-player-performance-analysis/
 ├── dashboard_preview.png      # Dashboard overview screenshot
-├── bubble_chart.png           # Points vs. assists vs. rebounds bubble chart
-├── assists_treemap.png        # Assists by player and position treemap
-├── threept_heatmap.png        # 3-point percentage heat map by team and position
-├── scoring_by_age.png         # Stacked bar: scoring by age group
-├── scoring_by_player.png      # Stacked bar: scoring distribution by player
+├── Bubble_Chart.png           # Points vs. assists vs. rebounds bubble chart
+├── Assists_By_Pos.png        # Assists by player and position treemap
+├── 3_Pt_Heat.png        # 3-point percentage heat map by team and position
+├── Stacked_Bar_Age.png         # Stacked bar: scoring by age group
+├── Stacked_Bar_Players.png      # Stacked bar: scoring distribution by player
 └── README.md
 ```
 
