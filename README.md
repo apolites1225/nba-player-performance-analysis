@@ -1,5 +1,7 @@
 # NBA Player Performance — Tableau Analysis
 
+![Dashboard_Cover](Dashboard_Cover.png)
+
 ## Executive Summary
 
 This project analyzes NBA player statistics across points, assists, and rebounds for 500+ players spanning all 30 teams, built into an interactive Tableau dashboard to examine what "well-rounded" actually looks like at the player and team level.
